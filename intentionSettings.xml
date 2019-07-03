@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Generate PHPDoc for function" />
+    <ignoreAction name="PHP/Add @property" />
+    <ignoreAction name="PHP/Simplify FQN" />
+  </component>
+</application>
