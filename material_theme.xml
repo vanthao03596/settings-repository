@@ -1,10 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="highlightColor" value="80cbc4" />
-    <option name="wallpaper" value="$USER_HOME$/Pictures/scotland_wallpaper/steve-taylor-110040.jpg" />
-    <option name="wallpaperSet" value="false" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
-    <option name="defaultBackground" value="$USER_HOME$/Pictures/scotland_wallpaper/steve-taylor-110040.jpg" />
+    <option name="accentColor" value="009688" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="userId" value="-21f29f99:16c21c4b1dc:-7fff" />
+    <option name="version" value="3.10.0" />
   </component>
 </application>
