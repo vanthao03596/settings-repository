@@ -1,15 +1,16 @@
 <scheme name="BrenDt - light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.8" />
+  <option name="LINE_SPACING" value="1.6" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -607,12 +608,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="297bde" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="GRADLE_CHANGE_CONFLICT">
       <value>
         <option name="FOREGROUND" value="db4233" />
@@ -1192,11 +1187,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="ffffff" />
@@ -1210,11 +1200,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_ATTRIBUTE">
