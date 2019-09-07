@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".rtlcssrc" type="PLAIN_TEXT" />
       <mapping pattern="LuckyController.php" type="PLAIN_TEXT" />
+      <mapping pattern="installed" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
