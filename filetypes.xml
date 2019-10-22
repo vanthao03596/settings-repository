@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".rtlcssrc" type="PLAIN_TEXT" />
       <mapping pattern="LuckyController.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="0d1896d9e422ec2daf5b4b1dcb944bffcd5d3d0e" type="PLAIN_TEXT" />
       <mapping pattern="installed" type="PLAIN_TEXT" />
     </extensionMap>
